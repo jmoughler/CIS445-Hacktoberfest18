@@ -1,0 +1,12 @@
+# Milestone Week 1: Finalizing Functionality
+    * Issue 1: Create a utility function to convert between timezones for "at" commands
+    * Issue 2: Alter bot to be able to handle commands that are closer to natural English (ex: Recognize an "at" keyword which is similar to the "in" keyword)
+    * Issue 3: Create a timer function (AKA a messageless reminder)
+# Milestone Week 2: Secondary Data Storage
+    * Issue 1: Implement long-term data storage (ex: Store relevant data to a .txt file so that data isn't lost upon shutdown of bot)
+    * Issue 2: Alter code to work seamlessly with long-term data storage
+# Milestone Week 3: Security & Optimization
+	* Issue 1: Alter bot to handle invalid input more elegantly
+    * Issue 2: Enhance security (ex: Store keys in environment variables rather than plain text and encrypt long-term data storage)
+    * Issue 3: Minimize Twitter API queries (ex: Minimize follow requests)
+    * Issue 4: Optimize internal logic
