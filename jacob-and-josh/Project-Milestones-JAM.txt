@@ -3,10 +3,10 @@
     * Issue 2: Show commenting with YAML
     * Issue 3: Show formatting with XML
 # Milestone Week 2: Parse data sets into Java to showcase code differences
-    * Issue 1: Parse UBJSON
-    * Issue 2: Parse XML
-    * Issue 3: Parse YAML (preserve comments?)
+    * Issue 1: Utilize UBJSON to show differences
+    * Issue 2: Utilize XML to show differences
+    * Issue 3: Utilize YAML (preserve comments?) to show differences
 # Milestone Week 3: Encode a data set from C++ and decode into Java
-    * Issue 1: Ecnode JSON
-    * Issue 2: Encode UBJSON
-    * Issue 3: Encode YAML
+    * Issue 1: Test JSONs ability to transfer data
+    * Issue 2: Test UBJSONs ability to transfer data
+    * Issue 3: Test YAMLs ability to transfer data
